@@ -8,4 +8,6 @@ print(arr)
 
 a = random.randint(1,10)
 print(a)
+print("version 3 updated")
+
 

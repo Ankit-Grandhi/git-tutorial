@@ -3,7 +3,7 @@
 int main(){
 
 	printf("Hello, world");
-	printf("\nVersion 2");
+	printf("\nVersion 69");
 	printf("suh mah dih");
 	return 0;
 }
